@@ -6,3 +6,9 @@ I coded a snake game with free Pascal.
 $ cd programs/
 $ ./snake
 ```
+
+## Screenshots
+### Main Menu
+![Screenshot](/screenshots/snake_menu.png)
+### Game
+![Screenshot](/screenshots/snake_game.png)
