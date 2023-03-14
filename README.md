@@ -12,3 +12,5 @@ $ ./snake
 ![Screenshot](/screenshots/snake_menu.png)
 ### Game
 ![Screenshot](/screenshots/snake_game.png)
+### Death Animation
+![Alt Text](/screenshots/snake_dead.gif)
